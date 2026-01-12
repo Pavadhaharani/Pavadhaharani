@@ -1,10 +1,11 @@
-## Hi there 👋 It's me PavadhaHarani
+<h1 align= "center">  Hi there 👋 It's me PavadhaHarani </h1>
 
-🎓 Aspiring Software Developer | 🎨 UI/UX Learner | ☕ Java Enthusiast
+<h3 align="center">🎓 Aspiring Software Developer | 🎨 UI/UX Learner | ☕ Java Enthusiast </h3> 
 
 
 
-<img align="right" width="320" height="250" src="https://assets.pinterest.com/ext/embed.html?id=435652963976106305">
+<img align="middle" width="1000px" height="1000px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
+
 
 I’m a passionate learner who loves blending technology and design. </br>
 Currently building my foundation in Java, UI/UX, and application development while working on mini-projects and real-world problem solving.
