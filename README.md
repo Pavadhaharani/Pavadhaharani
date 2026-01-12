@@ -7,8 +7,7 @@
 <img align="middle" width="1000px" height="1000px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
 
 
-I’m a passionate learner who loves blending technology and design. </br>
-Currently building my foundation in Java, UI/UX, and application development while working on mini-projects and real-world problem solving.
+I’m a passionate learner who loves blending technology and design. Currently building my foundation in Java, UI/UX, and application development while working on mini-projects and real-world problem solving.
 
 - 🌱 Learning: Java, OOP, Git, UI/UX Design
 - 🛠 Working on: Banking Systems, Goal Tracking Apps & UI Projects
