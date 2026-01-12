@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="320" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="320" height="250" src="https://assets.pinterest.com/ext/embed.html?id=435652963976106305">
 
 I’m a passionate learner who loves blending technology and design. </br>
 Currently building my foundation in Java, UI/UX, and application development while working on mini-projects and real-world problem solving.
@@ -29,9 +29,12 @@ Currently building my foundation in Java, UI/UX, and application development whi
 ![](https://nirzak-streak-stats.vercel.app/?user=Pavadhaharani&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavadhaharani&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pavadhaharani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
